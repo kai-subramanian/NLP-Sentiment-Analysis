@@ -1,4 +1,4 @@
-# NLP-sentiment-analysis
+# NLP-Sentiment-Analysis
 
 This repository contains the development code to be submitted as a project for Big Data Analytics coursework(SWE2011) and Foundations of Data Analytics coursework(CSE3505).
 
